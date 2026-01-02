@@ -52,7 +52,7 @@ int main() {
     // Your logic here
     return 0;
 }
-
+```
 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
